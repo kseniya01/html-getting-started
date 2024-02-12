@@ -1,45 +1,35 @@
 /* Add screen styles below */
 body {
-    background: #FFFFFF;
-    color: #000000;
+    background: #393D3F;
     margin-top: 100px;
+}
+
+.card {
+    background: #D9D9D9;
+    color: #393D3F;
+    margin: 0 auto;
+    width: 500px;
+    height: 300px;
+    border-radius: 20px;
+    box-shadow: 0 0 30px rgba(0,0,0,0.3);
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.card div {
+    padding: 20px;
+}
+
 h1 {
-    background: #A4B0F5;
-    color: #000000;
-    margin-top: 50px;
-    padding-left: 20px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    background: #9CC4B2;
+    margin: 0;
+    padding: 20px;
+    border-radius: 20px 20px 0 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-.heading2 {
-    text-align: center;
-}
-
-h2 {
-    color:#A4B0F5;
-    padding-top: 30px;
-}
-
-.image {
+img {
     float: left;
-    margin-left: 200px;
-    margin-top: 50px;
-    gap: 10px;
-}
-
-.about {
-    margin-left: 50px;
-    display: inline-block;
-    inline-size: 500px;
-}
-
-p {
-    color:#000000
-    display: inline-block;
-    inline-size: 500px;
-    margin-left: 50px;
+    margin-right: 20px;
+    width: 120px;
+    height: 150px;
 }
