@@ -11,8 +11,8 @@ h1 {
     color: #000000;
     margin-top: 50px;
     padding-left: 20px;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .heading2 {
@@ -20,7 +20,7 @@ h1 {
 }
 
 h2 {
-    color:#000000;
+    color:#A4B0F5;
     padding-top: 30px;
 }
 
